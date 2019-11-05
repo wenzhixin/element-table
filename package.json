@@ -1,7 +1,7 @@
 {
   "name": "element-table",
   "version": "1.0.0",
-  "description": "An extended table to integration with boostrap-table and element-ui.",
+  "description": "An extended table to integration with bootstrap-table and element-ui.",
   "author": "wenzhixin <wenzhixin2010@gmail.com> (http://wenzhixin.net.cn/)",
   "license": "MIT",
   "main": "./dist/element-table.min.js",

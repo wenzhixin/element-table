@@ -1,0 +1,2237 @@
+[
+    {
+        "name": "Welcome",
+        "list": [
+            {
+                "title": "Welcome Examples",
+                "url": "#welcomes/index.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Examples with checkbox, sort, pagination, export, editable and other added features."
+            },
+            {
+                "title": "From HTML",
+                "url": "#welcomes/from-html.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>data-toggle=\"table\"</code> attribute to transform table from an existing, unformatted html table."
+            },
+            {
+                "title": "From Data",
+                "url": "#welcomes/from-data.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>data</code> option to load data json."
+            },
+            {
+                "title": "From URL",
+                "url": "#welcomes/from-url.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>url</code> option to load json."
+            },
+            {
+                "title": "Modal Table",
+                "url": "#welcomes/modal-table.html",
+                "themes": [
+                    "bootstrap4"
+                ],
+                "description": "Use Bootstrap Table in modal."
+            },
+            {
+                "title": "Modal Table",
+                "url": "#welcomes/modal-table-bootstrap3.html",
+                "themes": [
+                    "bootstrap3"
+                ],
+                "description": "Use Bootstrap Table in modal."
+            },
+            {
+                "title": "Modal Table",
+                "url": "#welcomes/modal-table-semantic.html",
+                "themes": [
+                    "semantic"
+                ],
+                "description": "Use Bootstrap Table in modal."
+            },
+            {
+                "title": "Modal Table",
+                "url": "#welcomes/modal-table-bulma.html",
+                "themes": [
+                    "bulma"
+                ],
+                "description": "Use Bootstrap Table in modal."
+            },
+            {
+                "title": "Modal Table",
+                "url": "#welcomes/modal-table-materialize.html",
+                "themes": [
+                    "materialize"
+                ],
+                "description": "Use Bootstrap Table in modal."
+            },
+            {
+                "title": "Modal Table",
+                "url": "#welcomes/modal-table-foundation.html",
+                "themes": [
+                    "foundation"
+                ],
+                "description": "Use Bootstrap Table in modal."
+            },
+            {
+                "title": "Group Columns",
+                "url": "#welcomes/group-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>rowspan, colspan</code> options to set the group columns header."
+            },
+            {
+                "title": "Sub Table",
+                "url": "#welcomes/sub-table.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Supports sub table."
+            },
+            {
+                "title": "Multiple Table",
+                "url": "#welcomes/multiple-table.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Multiple tables in one page."
+            },
+            {
+                "title": "Flat Json",
+                "url": "#welcomes/flat-json.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Support flat json, for example: <code>data-field=\"github.count.stargazers\"</code>."
+            },
+            {
+                "title": "Large Data",
+                "url": "#welcomes/large-data.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>virtualScroll</code> to enable the virtual scroll to play with large data sets (10000 rows)."
+            },
+            {
+                "title": "Vue Component",
+                "url": "#welcomes/vue-component.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use Plugin: <a href=\"https://vuejs.org/\" target=\"_blank\">Vue.js</a> and bootstrap-table-vue."
+            }
+        ]
+    },
+    {
+        "name": "Options",
+        "list": [
+            {
+                "title": "Table Height",
+                "url": "#options/table-height.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>height</code> option to enable fixed header of table."
+            },
+            {
+                "title": "Table Classes",
+                "url": "#options/table-classes.html",
+                "themes": [
+                    "bootstrap4"
+                ],
+                "description": "Use <code>classes</code> option to set the styles."
+            },
+            {
+                "title": "Thead Classes",
+                "url": "#options/thead-classes.html",
+                "themes": [
+                    "bootstrap4"
+                ],
+                "description": "Use <code>theadClasses</code> option to set the styles."
+            },
+            {
+                "title": "Row Style",
+                "url": "#options/row-style.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>rowStyle</code> option to set the row style."
+            },
+            {
+                "title": "Row Attributes",
+                "url": "#options/row-attributes.html",
+                "themes": [
+                    "bootstrap3",
+                    "bootstrap4"
+                ],
+                "description": "Use <code>rowAttributes</code> option to set the row attributes."
+            },
+            {
+                "title": "Undefined Text",
+                "url": "#options/undefined-text.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>undefinedText</code> option to set undefined text."
+            },
+            {
+                "title": "Table Locale",
+                "url": "#options/table-locale.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>locale</code> option to set the i18n."
+            },
+            {
+                "title": "Table Sortable",
+                "url": "#options/table-sortable.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sortable</code> option to set the basic sort."
+            },
+            {
+                "title": "Sort Class",
+                "url": "#options/sort-class.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sortClass</code> option to set the class name of the <code>td</code> elements which are sorted."
+            },
+            {
+                "title": "Silent Sort",
+                "url": "#options/silent-sort.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>silentSort: false</code> option to sort the data with loading message."
+            },
+            {
+                "title": "Sort Name Order",
+                "url": "#options/sort-name-order.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sortName</code> and <code>sortOrder</code> options to define which column and order will be sorted."
+            },
+            {
+                "title": "Sort Stable",
+                "url": "#options/sort-stable.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sortStable</code> option to get a stable sorting."
+            },
+            {
+                "title": "Remember Order",
+                "url": "#options/remember-order.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>rememberOrder</code> option to remember the order for each column."
+            },
+            {
+                "title": "Custom Sort",
+                "url": "#options/custom-sort.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>customSort</code> option to custom sort by the number instead of string."
+            },
+            {
+                "title": "Table Columns",
+                "url": "#options/table-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>columns</code> option to the table columns."
+            },
+            {
+                "title": "Table Method",
+                "url": "#options/table-method.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>method</code> option to the method type to request remote data."
+            },
+            {
+                "title": "Table Cache",
+                "url": "#options/table-cache.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>cache: false</code> option to disable caching of AJAX requests."
+            },
+            {
+                "title": "Content Type",
+                "url": "#options/content-type.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>contentType</code> option to the contentType of request remote data, for example <code>application/x-www-form-urlencoded</code>."
+            },
+            {
+                "title": "Data Type",
+                "url": "#options/data-type.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>dataType</code> option to the type of data that you are expecting back from the server, for example <code>text</code>. In this case, we need to use <code>responseHandler</code> to handle the response data."
+            },
+            {
+                "title": "Table AJAX",
+                "url": "#options/table-ajax.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>ajax</code> option to replace ajax call. Should implement the same API as jQuery ajax method."
+            },
+            {
+                "title": "AJAX Options",
+                "url": "#options/ajax-options.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>ajaxOptions</code> option to set the Additional options for submit ajax reques, for example we can use <code>beforeSend</code> option to send the custom request header."
+            },
+            {
+                "title": "Query Params",
+                "url": "#options/query-params.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>queryParams</code> option to send additional parameters, in this case we send <code>search=8</code> to the server."
+            },
+            {
+                "title": "Query Params Type",
+                "url": "#options/query-params-type.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>queryParamsType</code> option to send the difference query params."
+            },
+            {
+                "title": "Response Handler",
+                "url": "#options/response-handler.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>responseHandler</code> option to handle the response data."
+            },
+            {
+                "title": "Total/Data Field",
+                "url": "#options/total-data-field.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>totalField</code> and <code>dataField</code> options to custom the response keys. In this case, we use <code>count</code> and <code>items</code> keys."
+            },
+            {
+                "title": "Table Pagination",
+                "url": "#options/table-pagination.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>pagination</code> option to show a pagination toolbar on table bottom."
+            },
+            {
+                "title": "Only Info Pagination",
+                "url": "#options/only-info-pagination.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>onlyInfoPagination</code> option to show only the quantity of the data."
+            },
+            {
+                "title": "Show Extended Pagination",
+                "url": "#options/show-extended-pagination.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showExtendedPagination</code> option to show a extended version of pagination (including the count of all rows with out filters)."
+            },
+            {
+                "title": "Total Not Filtered Field",
+                "url": "#options/total-not-filtered-field.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>totalNotFilteredField</code> option to set the field from the json response which will used for showExtendedPagination."
+            },
+            {
+                "title": "Pagination Loop",
+                "url": "#options/pagination-loop.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>paginationLoop: false</code> option to disable pagination continuous loop mode."
+            },
+            {
+                "title": "Client Side Pagination",
+                "url": "#options/client-side-pagination.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sidePagination</code> to to define the client side pagination of table."
+            },
+            {
+                "title": "Server Side Pagination",
+                "url": "#options/server-side-pagination.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sidePagination: \\'server\\'</code> option to define the server side pagination of table."
+            },
+            {
+                "title": "Show Button Icon",
+                "url": "#options/show-button-icons.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showButtonIcons</code> to show icons on buttons."
+            },
+            {
+                "title": "Show Button Text",
+                "url": "#options/show-button-text.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showButtonText</code> to show text on buttons."
+            },
+            {
+                "title": "Page Number",
+                "url": "#options/page-number.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>pageNumber</code> option to initialize the page number."
+            },
+            {
+                "title": "Page Size",
+                "url": "#options/page-size.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>pageSize</code> option to initialize the page size."
+            },
+            {
+                "title": "Page List",
+                "url": "#options/page-list.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>pageList</code> option to initialize the page size selecting list."
+            },
+            {
+                "title": "Pagination H Align",
+                "url": "#options/pagination-h-align.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>paginationHAlign</code> and <code>paginationDetailHAlign</code> options to align the pagination."
+            },
+            {
+                "title": "Pagination V Align",
+                "url": "#options/pagination-v-align.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>paginationVAlign</code> option to vertical align the pagination."
+            },
+            {
+                "title": "Pagination Text",
+                "url": "#options/pagination-text.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>paginationPreText</code> and <code>paginationNextText</code> option to indicate the previous and next buttons."
+            },
+            {
+                "title": "Pagination Index Number",
+                "url": "#options/pagination-index-number.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use options to control the index number of the pagination."
+            },
+            {
+                "title": "Table Search",
+                "url": "#options/table-search.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>search</code> option to enable the search input."
+            },
+            {
+                "title": "Search On Enter Key",
+                "url": "#options/search-on-enter-key.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>searchOnEnterKey</code> option to enable the feature of search method will be executed until the <b>Enter</b> key is pressed."
+            },
+            {
+                "title": "Strict Search",
+                "url": "#options/strict-search.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>strictSearch</code> option to Enable the strict search."
+            },
+            {
+                "title": "Visible Search",
+                "url": "#options/visible-search.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>visibleSearch</code> to search only in visible column/data, if the data contains other values which are not displayed they will be ignored while searching."
+            },
+            {
+                "title": "Show Search Button",
+                "url": "#options/show-search-button.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showSearchButton</code> to show a search Button behind the search input."
+            },
+            {
+                "title": "Show Search Clear Button",
+                "url": "#options/show-search-clear-button.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showSearchClearButton</code> to show a clear Button behind the search input."
+            },
+            {
+                "title": "Trim On Search",
+                "url": "#options/trim-on-search.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>trimOnSearch: false</code> option to disable trim spaces in search field."
+            },
+            {
+                "title": "Search Align",
+                "url": "#options/search-align.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>searchAlign: \\'left\\'</code> option to indicate how to align the search input."
+            },
+            {
+                "title": "Search Time Out",
+                "url": "#options/search-time-out.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>searchTimeOut</code> option to set timeout for search fire, in this case we set to <code>1000</code>."
+            },
+            {
+                "title": "Search Text",
+                "url": "#options/search-text.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>searchText</code> option to initialize the search text."
+            },
+            {
+                "title": "Custom Search",
+                "url": "#options/custom-search.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>customSearch</code> option to custom search function is executed instead of built-in search function. In this case, we only search the price column."
+            },
+            {
+                "title": "Show Header",
+                "url": "#options/show-header.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showHeader: false</code> option to hide the table header."
+            },
+            {
+                "title": "Show Footer",
+                "url": "#options/show-footer.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showFooter</code> option to show the summary footer row."
+            },
+            {
+                "title": "Footer Style",
+                "url": "#options/footer-style.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>footerStyle</code> option to set the footer style formatter function."
+            },
+            {
+                "title": "Basic Columns",
+                "url": "#options/basic-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showColumns</code> to show the columns drop down list."
+            },
+            {
+                "title": "Columns Toggle All",
+                "url": "#options/columns-toggle-all.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showColumnsToggleAll</code> to show an toggle all checkbox for the columns option."
+            },
+            {
+                "title": "Large Columns",
+                "url": "#options/large-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Bootstrap table support large columns, it will auto to show the horizontal scroll bar."
+            },
+            {
+                "title": "Minimum Count Columns",
+                "url": "#options/minimum-count-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>minimumCountColumns</code> option to the minimum number of columns to hide from the columns drop down list."
+            },
+            {
+                "title": "Show Pagination Switch",
+                "url": "#options/show-pagination-switch.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showPaginationSwitch</code> option to show the pagination switch button."
+            },
+            {
+                "title": "Show Refresh",
+                "url": "#options/show-refresh.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showRefresh</code> option to show the refresh button."
+            },
+            {
+                "title": "Show Toggle",
+                "url": "#options/show-toggle.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showToggle</code> option to show the toggle button to toggle table / card view."
+            },
+            {
+                "title": "Show Fullscreen",
+                "url": "#options/show-fullscreen.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showFullscreen</code> option to show the fullscreen button."
+            },
+            {
+                "title": "Smart Display",
+                "url": "#options/smart-display.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>smartDisplay</code> option to display pagination or card view smartly. In this case you can see the changed of the page list."
+            },
+            {
+                "title": "Table Escape",
+                "url": "#options/table-escape.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>escape</code> option to Escapes a string for insertion into HTML, replacing &, <, >, \", `, and \\' characters."
+            },
+            {
+                "title": "Filter Options",
+                "url": "#options/filter-options.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>filterOptions</code> option to define the default filter options of algorithm. In this case, we are using <code>bootstrapTable(\\'filterBy\\', {id: 3, price: \\'$1\\'})</code>."
+            },
+            {
+                "title": "Id Field",
+                "url": "#options/id-field.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>idField: \\'id\\'</code> option to indicate which field is an identity field, and use <code>btSelectItem: \\'id\\'</code> to set the name of radio or checkbox input."
+            },
+            {
+                "title": "Click To Select",
+                "url": "#options/click-to-select.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>clickToSelect</code> option to select checkbox or radiobox when clicking rows."
+            },
+            {
+                "title": "Ignore Click To Select On",
+                "url": "#options/ignore-click-to-select-on.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>ignoreClickToSelectOn</code> option to set the ignore elements <code>clickToSelect</code> on."
+            },
+            {
+                "title": "Single Select",
+                "url": "#options/single-select.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>singleSelect</code> option to allow checkbox selecting only one row."
+            },
+            {
+                "title": "Checkbox Header",
+                "url": "#options/checkbox-header.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>checkboxHeader: false</code> option to hide check-all checkbox in header row."
+            },
+            {
+                "title": "Maintain Meta Data",
+                "url": "#options/maintain-meta-data.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>maintainMetaData</code> option to maintain the meta data(selected rows and hidden rows) on change page and search."
+            },
+            {
+                "title": "Multiple Select Row",
+                "url": "#options/multiple-select-row.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>multipleSelectRow</code> to the multiple selection row. Can use the ctrl+click to select one row or use shift+click to select a range of rows."
+            },
+            {
+                "title": "Card View",
+                "url": "#options/card-view.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>cardView</code> option to show card view table, for example mobile view."
+            },
+            {
+                "title": "Detail View",
+                "url": "#options/detail-view.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>detailView</code> and <code>detailFormatter</code> options to show detail view."
+            },
+            {
+                "title": "Detail View Icon",
+                "url": "#options/detail-view-icon.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>detailViewIcon: false</code> and <code>detailViewByClick: true</code> options to hide the detail view column (plus/minus icon)."
+            },
+            {
+                "title": "Detail Filter",
+                "url": "#options/detail-filter.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>detailFilter</code> option to enable expansion per row."
+            },
+            {
+                "title": "Custom Toolbar",
+                "url": "#options/custom-toolbar.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>toolbar</code> option to define the custom toolbars."
+            },
+            {
+                "title": "Toolbar Align",
+                "url": "#options/toolbar-align.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>toolbarAlign</code> option to indicate how to align the custom toolbar."
+            },
+            {
+                "title": "Buttons Toolbar",
+                "url": "#options/buttons-toolbar.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>buttonsToolbar</code> option to indicates the custom buttons toolbar with a selector."
+            },
+            {
+                "title": "Buttons Align",
+                "url": "#options/buttons-align.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>buttonsAlign</code> option to indicate how to align the toolbar buttons."
+            },
+            {
+                "title": "Buttons Prefix",
+                "url": "#options/buttons-prefix.html",
+                "themes": [
+                    "bootstrap3",
+                    "bootstrap4"
+                ],
+                "description": "Use <code>buttonsPrefix: \\'btn btn-sm\\'</code> option to defines the prefix of table buttons."
+            },
+            {
+                "title": "Buttons Class",
+                "url": "#options/buttons-class.html",
+                "themes": [
+                    "bootstrap3",
+                    "bootstrap4"
+                ],
+                "description": "Use <code>buttonsClass: \\'primary\\'</code> option to defines the class of table buttons."
+            },
+            {
+                "title": "Table Icons",
+                "url": "#options/table-icons.html",
+                "themes": [
+                    "bootstrap3",
+                    "bootstrap4"
+                ],
+                "description": "Use <code>icons</code> option to defines icons used in the toolbar, pagination, and details view."
+            },
+            {
+                "title": "Icon Size",
+                "url": "#options/icon-size.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>iconSize</code> option to defines icon size."
+            },
+            {
+                "title": "Icons Prefix",
+                "url": "#options/icons-prefix.html",
+                "themes": [
+                    "bootstrap3",
+                    "bootstrap4"
+                ],
+                "description": "Use <code>iconsPrefix</code> option to defines icon set name. In the case we use ionicons as an example."
+            }
+        ]
+    },
+    {
+        "name": "Column Options",
+        "list": [
+            {
+                "title": "Column Fields",
+                "url": "#column-options/field.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>field</code> to define the table fields, the table fields are required for some actions e.g. the <code>load</code> method or the <code>formatter</code> option."
+            },
+            {
+                "title": "Column Title",
+                "url": "#column-options/title.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>title</code> to define the name/title of the thead. (Default is name of the <code>field</code>)"
+            },
+            {
+                "title": "Title Tooltip",
+                "url": "#column-options/title-tooltip.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>titleTooltip</code> to define the title as tooltip (html attribute) of the thead."
+            },
+            {
+                "title": "Column Class",
+                "url": "#column-options/class.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>class</code> to define/overwrite css classes of the column."
+            },
+            {
+                "title": "Column Width",
+                "url": "#column-options/width.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>width</code> to define the column width."
+            },
+            {
+                "title": "Width Unit",
+                "url": "#column-options/width-unit.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>widthUnit</code> to define the unit of the column width."
+            },
+            {
+                "title": "Rowspan Colspan",
+                "url": "#column-options/rowspan-colspan.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>rowspan, colspan</code> options to set the group columns header."
+            },
+            {
+                "title": "Aligning Columns",
+                "url": "#column-options/aligning-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>align</code>, <code>halign</code> and <code>valign</code> options to set the alignment of the columns and their header."
+            },
+            {
+                "title": "Aligning Footer",
+                "url": "#column-options/aligning-footer.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>falign</code> to set the alignment of the columns in the footer."
+            },
+            {
+                "title": "Cell Style",
+                "url": "#column-options/cell-style.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>cellStyle</code> to define the style of a cell."
+            },
+            {
+                "title": "Column Radio",
+                "url": "#column-options/radio.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>radio</code> to define that a column contains radio(boxes)."
+            },
+            {
+                "title": "Column Checkbox",
+                "url": "#column-options/checkbox.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>checkbox</code> to define that a column contains checkboxes."
+            },
+            {
+                "title": "Checkbox Enabled",
+                "url": "#column-options/checkbox-enabled.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>checkboxEnabled</code> to define if the checkboxes/radio are enabled or not."
+            },
+            {
+                "title": "Checkbox Disabled",
+                "url": "#column-options/checkbox-disabled.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>checkbox</code> and <code>formatter</code> column option to disabled select input."
+            },
+            {
+                "title": "Click To Select",
+                "url": "#column-options/click-to-select.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>clickToSelect</code> option to select checkbox or radiobox when clicking rows. In this case, we disable the Item Name column to click to select."
+            },
+            {
+                "title": "Show Select Title",
+                "url": "#column-options/show-select-title.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>showSelectTitle</code> to show the title of column with radio or singleSelect checkbox option."
+            },
+            {
+                "title": "Column Sortable",
+                "url": "#column-options/sortable.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sortable</code> to define that the column can be sorted."
+            },
+            {
+                "title": "Sort Name Order",
+                "url": "#column-options/sort-name-order.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sortName, sortOrder</code> to define by which column the sort will be done."
+            },
+            {
+                "title": "Column Sorter",
+                "url": "#column-options/sorter.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>sorter</code> column option to custom the sorter."
+            },
+            {
+                "title": "Column Visible",
+                "url": "#column-options/visible.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>visible</code> to decide if the column is visible or not."
+            },
+            {
+                "title": "Column Switchable",
+                "url": "#column-options/switchable.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>switchable</code> to decide if the column is switchable or not."
+            },
+            {
+                "title": "Card Visible",
+                "url": "#column-options/card-visible.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>cardVisible</code> to to decide if the column is visible or not in the card view."
+            },
+            {
+                "title": "Column Searchable",
+                "url": "#column-options/searchable.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>searchable</code> to define if a column can be found through searching."
+            },
+            {
+                "title": "Column Formatter",
+                "url": "#column-options/formatter.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>formatter</code> column option to format the display of bootstrap table column."
+            },
+            {
+                "title": "Footer Formatter",
+                "url": "#column-options/footer-formatter.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>footerFormatter</code> to format the footer columns."
+            },
+            {
+                "title": "Detail Formatter",
+                "url": "#column-options/detail-formatter.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>detailFormatter</code> to Format your detail view when <code>detailView</code> and <code>detailViewByClick</code> is set to <code>true</code>. Return a <code>String</code> and it will be appended into the detail view cell."
+            },
+            {
+                "title": "Search Formatter",
+                "url": "#column-options/search-formatter.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>searchFormatter</code> to define that the formatted data will be used while searching. You can search <code>Formatted</code> and <code>Price</code> to the difference."
+            },
+            {
+                "title": "Column Escape",
+                "url": "#column-options/escape.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>escape</code> to escape data (e.g. to prevent javascript injections)."
+            },
+            {
+                "title": "Column Events",
+                "url": "#column-options/events.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Use <code>events</code> column option to define the events for the formatter column."
+            }
+        ]
+    },
+    {
+        "name": "Methods",
+        "list": [
+            {
+                "title": "Get Options",
+                "url": "#methods/get-options.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Return the options object: <code>$table.bootstrapTable(\\'getOptions\\')</code>."
+            },
+            {
+                "title": "Refresh Options",
+                "url": "#methods/refresh-options.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Refresh table options: <code>$table.bootstrapTable(\\'refreshOptions\\', {})</code>."
+            },
+            {
+                "title": "Get Data",
+                "url": "#methods/get-data.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Get the loaded data of table: <code>$table.bootstrapTable(\\'getData\\')</code>."
+            },
+            {
+                "title": "Get Selections",
+                "url": "#methods/get-selections.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Return selected rows: <code>$table.bootstrapTable(\\'getSelections\\')</code>."
+            },
+            {
+                "title": "Get All Selections",
+                "url": "#methods/get-all-selections.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Return all selected rows contain search or filter: <code>$table.bootstrapTable(\\'getAllSelections\\')</code>."
+            },
+            {
+                "title": "Load",
+                "url": "#methods/load.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Load the data to table, the old rows will be removed: <code>$table.bootstrapTable(\\'load\\', data)</code>."
+            },
+            {
+                "title": "Append",
+                "url": "#methods/append.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Append the data to table: <code>$table.bootstrapTable(\\'append\\', data)</code>."
+            },
+            {
+                "title": "Prepend",
+                "url": "#methods/prepend.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Prepend the data to table: <code>$table.bootstrapTable(\\'prepend\\', data)</code>."
+            },
+            {
+                "title": "Remove",
+                "url": "#methods/remove.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Remove data from table: <code>$table.bootstrapTable(\\'remove\\', {field: \\'id\\', values: ids})</code>."
+            },
+            {
+                "title": "Remove All",
+                "url": "#methods/remove-all.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Remove all data from table: <code>$table.bootstrapTable(\\'removeAll\\')</code>."
+            },
+            {
+                "title": "Insert Row",
+                "url": "#methods/insert-row.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Insert a new row: <code>$table.bootstrapTable(\\'insertRow\\', {index: 1, row: row})</code>."
+            },
+            {
+                "title": "Update Row",
+                "url": "#methods/update-row.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Update the specified row: <code>$table.bootstrapTable(\\'updateRow\\', {index: 1, row: row})</code>."
+            },
+            {
+                "title": "Get Row By Unique Id",
+                "url": "#methods/get-row-by-unique-id.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Get row data by unique id: <code>$table.bootstrapTable(\\'getRowByUniqueId\\', 1)</code>."
+            },
+            {
+                "title": "Update By Unique Id",
+                "url": "#methods/update-by-unique-id.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Update the specified row by unique id: <code>$table.bootstrapTable(\\'updateByUniqueId\\', {id: 3, row: row})</code>."
+            },
+            {
+                "title": "Remove By Unique Id",
+                "url": "#methods/remove-by-unique-id.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Remove row data by unique id: <code>$table.bootstrapTable(\\'removeByUniqueId\\', 1)</code>."
+            },
+            {
+                "title": "Update Cell",
+                "url": "#methods/update-cell.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Update the specified cell: <code>$table.bootstrapTable(\\'updateCell\\', {index: 1, field: \\'name\\', value: \\'Updated Name\\'})</code>."
+            },
+            {
+                "title": "Update Cell By Unique Id",
+                "url": "#methods/update-cell-by-unique-id.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Update the specified cell by unique id: <code>$table.bootstrapTable(\\'updateCellByUniqueId\\', {id: 3, field: \\'name\\', value: \\'Updated Name\\'})</code>."
+            },
+            {
+                "title": "Show/Hide Row",
+                "url": "#methods/show-hide-row.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Show/Hide the specified row:<br><code>$table.bootstrapTable(\\'showRow\\', {index:1})</code><br><code>$table.bootstrapTable(\\'hideRow\\', {index:1})</code>."
+            },
+            {
+                "title": "Get Hidden Rows",
+                "url": "#methods/get-hidden-rows.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Get all rows hidden and if you pass the show parameter true the rows will be shown again, otherwise, the method only will return the rows hidden:<br><code>$table.bootstrapTable(\\'getHiddenRows\\')</code><br><code>$table.bootstrapTable(\\'getHiddenRows\\', true)</code>."
+            },
+            {
+                "title": "Show/Hide Column",
+                "url": "#methods/show-hide-column.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Show/Hide the specified column:<br><code>$table.bootstrapTable(\\'showColumn\\', \\'name\\')</code><br><code>$table.bootstrapTable(\\'hideColumn\\', \\'name\\')</code>."
+            },
+            {
+                "title": "Get Visible/Hidden Columns",
+                "url": "#methods/get-visible-hidden-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Get Visible/Hidden columns:<br><code>$table.bootstrapTable(\\'getVisibleColumns\\')</code><br><code>$table.bootstrapTable(\\'getHiddenColumns\\')</code>."
+            },
+            {
+                "title": "Show/Hide All Columns",
+                "url": "#methods/show-hide-all-columns.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Show/Hide all columns:<br><code>$table.bootstrapTable(\\'showAllColumns\\')</code><br><code>$table.bootstrapTable(\\'hideAllColumns\\')</code>."
+            },
+            {
+                "title": "Merge Cells",
+                "url": "#methods/merge-cells.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Merge some cells to one cell: <code>$table.bootstrapTable(\\'mergeCells\\', {index: 1, field: \\'name\\', colspan: 2, rowspan: 3})</code>."
+            },
+            {
+                "title": "Check/Uncheck All",
+                "url": "#methods/check-uncheck-all.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Check/Uncheck all current page rows:<br><code>$table.bootstrapTable(\\'checkAll\\')</code><br><code>$table.bootstrapTable(\\'uncheckAll\\')</code>."
+            },
+            {
+                "title": "Check Invert",
+                "url": "#methods/check-invert.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Invert check of current page rows: <code>$table.bootstrapTable(\\'checkInvert\\')</code>."
+            },
+            {
+                "title": "Check/Uncheck",
+                "url": "#methods/check-uncheck.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Check/Uncheck a row, the row index start with 0: <br><code>$table.bootstrapTable(\\'check\\', 1)</code><br><code>$table.bootstrapTable(\\'uncheck\\', 1)</code>."
+            },
+            {
+                "title": "Check/Uncheck By",
+                "url": "#methods/check-uncheck-by.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Check/Uncheck rows by array of values:<br><code>$table.bootstrapTable(\\'checkBy\\', {field: \\'id\\', values: [1, 2, 3]})</code><br><code>$table.bootstrapTable(\\'uncheckBy\\', {field: \\'id\\', values: [1, 2, 3]})</code>."
+            },
+            {
+                "title": "Refresh",
+                "url": "#methods/refresh.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Refresh the remote server data: <code>$table.bootstrapTable(\\'refresh\\')</code>."
+            },
+            {
+                "title": "Destroy",
+                "url": "#methods/destroy.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Destroy the bootstrap table: <code>$table.bootstrapTable(\\'destroy\\')</code>."
+            },
+            {
+                "title": "Reset View",
+                "url": "#methods/reset-view.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Reset the bootstrap table view, for example reset the table height: <code>$table.bootstrapTable(\\'resetView\\')</code>."
+            },
+            {
+                "title": "Show/Hide Loading",
+                "url": "#methods/show-hide-loading.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Show/hide the loading: <code>$table.bootstrapTable(\\'showLoading\\')</code><br><code>$table.bootstrapTable(\\'hideLoading\\')</code>."
+            },
+            {
+                "title": "Toggle Pagination",
+                "url": "#methods/toggle-pagination.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Toggle the pagination option: <code>$table.bootstrapTable(\\'togglePagination\\')</code>."
+            },
+            {
+                "title": "Toggle Fullscreen",
+                "url": "#methods/toggle-fullscreen.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Toggle Fullscreen: <code>$table.bootstrapTable(\\'toggleFullscreen\\')</code>."
+            },
+            {
+                "title": "Toggle View",
+                "url": "#methods/toggle-view.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Toggle the card/table view: <code>$table.bootstrapTable(\\'toggleView\\')."
+            },
+            {
+                "title": "Reset Search",
+                "url": "#methods/reset-search.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Set the search text: <code>$table.bootstrapTable(\\'resetSearch\\')</code>."
+            },
+            {
+                "title": "Filter By",
+                "url": "#methods/filter-by.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Filter data in table (can use only in client-side): <code>$table.bootstrapTable(\\'filterBy\\', {id: [1, 2, 3]})</code>."
+            },
+            {
+                "title": "Scroll To",
+                "url": "#methods/scroll-to.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Scroll to the number value position, set \\'bottom\\' means scroll to the bottom:<br><code>$table.bootstrapTable(\\'scrollTo\\', 0)</code><br><code>$table.bootstrapTable(\\'scrollTo\\', {unit: \\'rows\\', value: index})</code><br><code>$table.bootstrapTable(\\'scrollTo\\', \\'bottom\\')</code>."
+            },
+            {
+                "title": "Get Scroll Position",
+                "url": "#methods/get-scroll-position.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Get the current scroll position, the unit is \\'px\\': <code>$table.bootstrapTable(\\'getScrollPosition\\')</code>."
+            },
+            {
+                "title": "Select/Prev/Next Page",
+                "url": "#methods/select-prev-next-page.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Go to the a specified/previous/next page:<br><code>$table.bootstrapTable(\\'selectPage\\', 1)</code><br><code>$table.bootstrapTable(\\'prevPage\\')</code><br><code>$table.bootstrapTable(\\'nextPage\\')</code>."
+            },
+            {
+                "title": "Toggle Detail View",
+                "url": "#methods/toggle-detail-view.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Toggle the row if the detail view option is set: <code>$table.bootstrapTable(\\'toggleDetailView\\', index)</code>."
+            },
+            {
+                "title": "Expand/Collapse Row",
+                "url": "#methods/expand-collapse-row.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "<code>$table.bootstrapTable(\\'expandRow\\', 1)</code><br><code>$table.bootstrapTable(\\'collapseRow\\', 1)</code>."
+            },
+            {
+                "title": "Expand/Collapse All Rows",
+                "url": "#methods/expand-collapse-all-rows.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "<code>$table.bootstrapTable(\\'expandAllRows\\')</code><br><code>$table.bootstrapTable(\\'collapseAllRows\\')</code>."
+            },
+            {
+                "title": "Update Column Title",
+                "url": "#methods/update-column-title.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Update the field title of column: <code>$table.bootstrapTable(\\'updateColumnTitle\\', {field: \\'name\\', title: \\'Updated Name\\'})</code>."
+            },
+            {
+                "title": "Update Format Text",
+                "url": "#methods/update-format-text.html",
+                "themes": [
+                    "bootstrap4",
+                    "bootstrap3",
+                    "semantic",
+                    "bulma",
+                    "materialize",
+                    "foundation"
+                ],
+                "description": "Update the localizations format text: <code>$table.bootstrapTable(\\'updateFormatText\\', \\'formatSearch\\', \\'Enter keywords...\\')</code>."
+            }
+        ]
+    }
+]

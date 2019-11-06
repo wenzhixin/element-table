@@ -7,6 +7,7 @@ TARGET_BRANCH="gh-pages"
 function doCompile {
     cd site
     ./build.sh
+    cd ..
     cp -r site/docs/.vuepress/dist/* build
 }
 

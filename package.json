@@ -1,0 +1,63 @@
+{
+  "name": "element-ui-table",
+  "version": "1.0.0",
+  "description": "An extended table to integration with bootstrap-table and element-ui.",
+  "author": "wenzhixin <wenzhixin2010@gmail.com> (http://wenzhixin.net.cn/)",
+  "license": "MIT",
+  "main": "./dist/element-table.min.js",
+  "scripts": {
+    "lint:js": "eslint src",
+    "lint:css": "stylelint src/**/*.scss",
+    "lint": "run-s lint:*",
+    "js:build:base": "rollup -c",
+    "js:build:min": "NODE_ENV=production rollup -c",
+    "js:build:banner": "find dist -name '*.min.js' -exec headr {} -o {} --version --homepage --author --license \\;",
+    "js:build": "run-s js:build:*",
+    "css:build:scss": "node-sass --importer node_modules/node-sass-package-importer/dist/cli.js src/element-table.scss dist/element-table.css",
+    "css:build:min": "find dist -name '*.css' | sed -e 'p;s/.css/.min.css/' | xargs -n2 cssmin",
+    "css:build:banner": "find dist -name '*.min.css' -exec headr {} -o {} --version --homepage --author --license \\;",
+    "css:build": "run-s css:build:*",
+    "clean": "rm -rf dist",
+    "build": "run-s lint clean *:build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenzhixin/element-table.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "table",
+    "pagination",
+    "checkbox",
+    "radio",
+    "datatables",
+    "css",
+    "css-framework",
+    "element",
+    "element-ui"
+  ],
+  "bugs": {
+    "url": "https://github.com/wenzhixin/element-table/issues"
+  },
+  "homepage": "https://element.bootstrap-table.com",
+  "dependencies": {
+    "bootstrap-table": "^1.15.5",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "cssmin-cli": "^0.0.5",
+    "eslint": "^6.6.0",
+    "headr": "^0.0.4",
+    "node-sass": "^4.13.0",
+    "node-sass-package-importer": "^5.3.2",
+    "npm-run-all": "^4.1.5",
+    "rollup": "^1.26.0",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-inject": "^3.0.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-terser": "^5.1.2",
+    "stylelint": "^11.1.1",
+    "stylelint-config-standard": "^19.0.0"
+  }
+}

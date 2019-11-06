@@ -1,7 +1,7 @@
 #!/bin/bash
 
 npm install
-npm build
+npm run build
 
 file=docs/.vuepress/public/examples/index.html
 output=`cat $file | sed -e "s!<head>!!" | sed -e "s!</head>!!"`
@@ -17,4 +17,4 @@ $output" > docs/examples/README.md
 
 rm $file
 
-npm docs:build
+npm run docs:build

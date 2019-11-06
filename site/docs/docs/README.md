@@ -10,9 +10,9 @@ Looking to quickly add Element Table to your <a href="https://element.eleme.io/"
 Install and manage Element Table using [npm](https://www.npmjs.com/package/element-table).
 
 ```bash
-npm install element-table
+npm install element-ui-table
 # or
-yarn add element-table
+yarn add element-ui-table
 ```
 
 ## Import
@@ -21,8 +21,8 @@ In `main.js` or `plugins/table.js`:
 
 ```javascript
 import Vue from 'vue'
-import ElementTable from 'element-table'
-import 'element-table/dist/element-table.css'
+import ElementTable from 'element-ui-table'
+import 'element-ui-table/dist/element-table.css'
 
 Vue.use(ElementTable)
 ```

@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+  - 10
+
+script: bash ./deploy.sh
+
+branches:
+  only:
+  - master
+
+env:
+  global:
+  - ENCRYPTION_LABEL: "e88c8682fdf4"
+  - COMMIT_AUTHOR_EMAIL: "wenzhixin2010@gmail.com"
+
+sudo: false
+
+cache: bundler

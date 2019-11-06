@@ -24,7 +24,7 @@
       </div>
       <highlight-code
         v-else
-        lang="vue"
+        lang="html"
       >
         {{ componentSource }}
       </highlight-code>

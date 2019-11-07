@@ -4,6 +4,7 @@ node_modules
 docs/examples
 docs/.vuepress/dist
 docs/.vuepress/public/examples
+dev.sh
 
 # local env files
 .env.local

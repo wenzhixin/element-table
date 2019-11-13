@@ -12,7 +12,7 @@ export default {
   data () {
     return {
       propertyId: 291,
-      template: 'default',
+      template: 'rectangle-narrow',
       theme: 'light'
     }
   },
